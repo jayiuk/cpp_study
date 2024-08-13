@@ -1,4 +1,6 @@
 .vscode/
 .dist/
-.src/build/
+.src/build/Debug
 *.exe
+*.o
+*.0
