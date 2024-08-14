@@ -8,5 +8,6 @@ int main(){
     cout << "* 연산자에 의한 결과 : " << num1 * num2 << endl;
     cout << "/ 연산자에 의한 결과 : " << num1 / num2 << endl;
     cout << "% 연산자에 의한 결과 : " << num1 % num2 << endl;
+    cout << "++ 연산자에 의한 결과 : " << ++num2 << endl;
     return 0;
 }
